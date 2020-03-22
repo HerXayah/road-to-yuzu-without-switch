@@ -42,7 +42,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
  ![ZwZ](https://i.uwu.plus/pxRyGEar.png?key=KXsLcqhbDZuQHc)
 
  Create a folder called "keys" and copy the key you got from [here](https://drive.google.com/drive/folders/1i17XAjiwKLwml_9mzLQ4GF6RYidaCFcG?usp=sharing) Section and paste it in the Foler.
- Then go back out of the keys Folder and paste the Contents of the Switch Fimware Folder found [here](https://drive.google.com/drive/folders/1SwobY3yIATNeFc-HC3z_iJKhkG-9pLR6?usp=sharing) and click yes if it wants to override any files
+ Then go back out of the keys Folder and paste the Contents of the Switch Fimware Folder found [here](https://drive.google.com/drive/folders/1IRbdlscnDqxIZ04HPEQeod2zHM993Z1W?usp=sharing) and click yes if it wants to override any files
  ![CaccaIsCute](https://fuckedyour.doctor/iQ6Yvxxj.png?key=Tka82acKrlYqlS)
 
   # Settings
