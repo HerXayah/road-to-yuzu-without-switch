@@ -23,7 +23,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
 
  # Guide
 
- # Setup
+  # Setup
  First you will need the [Yuzu-Installer](https://github.com/yuzu-emu/liftinstall/releases/download/1.8/yuzu_install.exe).
  Open it, and let it do its own stuff and be sure to have it like this.
  ![YuzuInstall](https://fuckedyour.doctor/jHMFQqDS.png?key=r2dUCnMvj8qhPR)
@@ -36,7 +36,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
  on there click Emulation -> Configure -> System -> Profile
  Then press on Add and make a new Profile, then close Yuzu
 
- # Files
+  # Files
  Press Windows + R and type %appdata%\yuzu and the press Enter
  ![ZwZ](https://i.uwu.plus/pxRyGEar.png?key=KXsLcqhbDZuQHc)
 
@@ -44,7 +44,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
  Then go back out of the keys Folder and paste the Contents of the Switch Fimware Folder found [here](https://drive.google.com/drive/folders/1SwobY3yIATNeFc-HC3z_iJKhkG-9pLR6?usp=sharing) and click yes if it wants to override any files
  ![CaccaIsCute](https://fuckedyour.doctor/iQ6Yvxxj.png?key=Tka82acKrlYqlS)
 
- # Settings
+  # Settings
  For Settins open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan.
  Then go to Controls and Press Single Player yadiyadiyada and set it to this
  ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
@@ -53,7 +53,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
  Press Configure and press the excat Buttons on your Controller (its easier for Xbox but for you PS4 and Keyboard Users i have a graphic for yo found [here](https://compass-ssl.xboxlive.com/assets/c7/a1/c7a12fbe-af04-4a90-92f2-18338219c2aa.png?n=one-controller-front-l.png))
  After your done press Okay and continue to the Next Step.
 
- # Games
+  # Games
  Download any ROM you want from any ROM Website you like.
  I recommend (GameWII)[https://gamewii.net/category/switch/], but any ROM Site does it.
  After you got your File (can be .ncp, .xci and .nsp) make a Folder somewhere on your PC and in that folder make a folder for your Game.
@@ -64,19 +64,19 @@ Now the Game should be in the List. Next is do what i do
 
  # Aditional
 
- # GameUpdates
+  # GameUpdates
 
  Download the Update of your Game or DLC´s as again .ncp, .xci ir .nps.
  Put it in your Folder of the Game, then open Yuzu. Do excatly as in there
  ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
  For me it was already installed but it should then Show under Addons that you have it Installed
 
- # GetKeys
+  # GetKeys
 
  To get Keys easily just go to [this Subreddit](https://www.reddit.com/r/YuzuPiracy/) and look for posts with prod.keys
  Then just paste their code into a [decoder](https://www.base64decode.org/) and then paste the outcome into prod.keys
 
- # Goodbye
+  # Goodbye
 
  Thank your for reading this and i hoped it helped you with your start into Switch Emulating.
  If i forgot something just create a Pull Request with the stuff added and i review it ASAP.
