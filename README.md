@@ -56,7 +56,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
   # Games
  Download any ROM you want from any ROM Website you like.
  I recommend this nifty neat pastebin by Sineater [here](https://pastebin.com/KNqk8797)
- If your at it please visit his discord for allowing me to host his switch-files. youll find it [here](https://discord.gg/CZTFRZz=
+ If your at it please visit his discord for allowing me to host his switch-files. youll find it [here](https://discord.gg/CZTFRZz)
  Sites like [GameWII](https://gamewii.net/category/switch/) or any other do it too.
  After you got your File (can be .ncp, .xci and .nsp) make a Folder somewhere on your PC and in that folder make a folder for your Game.
  After that Double-Click into Yuzu and select the Folder you put your Game Folder in.
