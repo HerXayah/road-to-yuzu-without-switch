@@ -82,7 +82,7 @@ Now the Game should be in the List. Next is do what i do
  Here ima show how to install Mods.
  Its pretty simple, were gonna take the mod from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/)
  When you download the Zip File you will have a foler called ,,exefs_patches,,.
- Go inside that folder and in the other folder in there until you are at this file
+ Go inside that folder and in the other folder in there until you are at this file with an .IPS
  ![memememem](https://nuke.bayern/QTwbBtLy.png?key=GP1JZ3BylhCn9q)
  Then move that IPS file into exefs_patches and delete the now empty folder.
  Then rename exefs_patches into exefs.
