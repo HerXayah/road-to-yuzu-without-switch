@@ -37,7 +37,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
  Then press on Add and make a new Profile, then close Yuzu
 
   # Files
- Press Windows + R and type %appdata%\yuzu and the press Enter
+ Press Windows + R and type %appdata%\yuzu and the press Enter and Explorer should pop up
  ![ZwZ](https://i.uwu.plus/pxRyGEar.png?key=KXsLcqhbDZuQHc)
 
  Create a folder called "keys" and copy the key you got from [here](https://drive.google.com/drive/folders/1i17XAjiwKLwml_9mzLQ4GF6RYidaCFcG?usp=sharing) Section and paste it in the Foler.
