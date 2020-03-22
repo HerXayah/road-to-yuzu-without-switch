@@ -13,7 +13,7 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
   * [Additional](#additional)
    * [GameUpdates](#gameupdates)
    * [GetKeys](#getkeys)
-   * [Mods/Patches](Addons)
+   * [Mods/Patches](#Addons)
   * [Goodybe](#goodybe)
 
 
