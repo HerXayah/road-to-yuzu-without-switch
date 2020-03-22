@@ -7,11 +7,11 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
 
  [Introduction](#Introduction)
  [Guide](#Guide)
-    [Yuzu-Setup](#Setup)
-    [Needed-Files](#Files)
-    [Settings](#Settings)
+  [Yuzu-Setup](#Setup)
+  [Needed-Files](#Files)
+  [Settings](#Settings)
  [Additional](#Additional)
-    [GameUpdates](#GameUpdates)
+  [GameUpdates](#GameUpdates)
  [Goodybe](#Goodybe)
 
 
@@ -23,8 +23,10 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
 
  # Setup
  First you will need the [Yuzu-Installer](https://github.com/yuzu-emu/liftinstall/releases/download/1.8/yuzu_install.exe).
- Open it, and let it do its own stuff and be sure to have it like this
+ Open it, and let it do its own stuff and be sure to have it like this.
  ![YuzuInstall](https://fuckedyour.doctor/jHMFQqDS.png?key=r2dUCnMvj8qhPR)
+
+
 
 
 
