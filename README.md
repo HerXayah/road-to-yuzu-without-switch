@@ -4,14 +4,14 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/princessakari_)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
 
-[Introduction](#Introduction)
-[Guide](#Guide)
- [Yuzu-Setup](#Setup)
- [Needed-Files](#Files)
- [Settings](#Settings)
-[Additional](#Additional)
- [GameUpdates](#GameUpdates)
-[Goodybe](#Goodybe)
+[Introduction](#introduction)
+[Guide](#guide)
+ [Yuzu-Setup](#setup)
+ [Needed-Files](#files)
+ [Settings](#settings)
+[Additional](#additional)
+ [GameUpdates](#gameupdates)
+[Goodybe](#goodybe)
 
 
  # Introduction
