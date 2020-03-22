@@ -93,6 +93,8 @@ Now the Game should be in the List. Next is do what i do
  If you got any other names for the folder rename the folder not to exefs.
  Instead rename them to romfs or romfs_ext.
 
+ You can completly skip these steps if you use mods from [here](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods)
+
   # Goodbye
 
  Thank your for reading this and i hoped it helped you with your start into Switch Emulating.
