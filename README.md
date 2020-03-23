@@ -38,8 +38,8 @@ This Repo explains how to install the Yuzu Switch Emulator without a Switch on a
  Then press on Add and make a new profile, then close Yuzu
 
   # Files
- Inside of Yuzu click File -> Open yuzu folder
- This will open the yuzu configuration folder inside of exeplorer.
+ Inside of Yuzu click File -> Open yuzu folder.
+ This will open the yuzu configuration folder inside of explorer.
 
  Create a folder called "keys" and copy the key you got from [here](https://drive.google.com/drive/folders/1i17XAjiwKLwml_9mzLQ4GF6RYidaCFcG?usp=sharing) and paste it in the folder.
  Then go back out of the keys folder and paste the contents of the Switch firmware folder found [here](https://drive.google.com/drive/folders/1IRbdlscnDqxIZ04HPEQeod2zHM993Z1W?usp=sharing) and click yes if it wants to overwrite any files
