@@ -40,8 +40,9 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  Create a folder called "keys" and copy the key you got from [here](https://github.com/emuworld/aio/blob/master/prod.keys) and paste it in the folder.
 
   # Settings
- For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan.
+ For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. (Vulkan seems to be a bit bad atm)
  Then go to Controls and press Single Player yadiyadiyada and set it to something like this
+ For Additional Stuff look [here](https://yuzu-emu.org/game/)
  ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
 
  Then Press Configure and set Player 1 to Pro Controller if you have a controller/keyboard and to Joycons if Joycons.
@@ -82,7 +83,7 @@ Now the game should be in the list. Next do what I do in the gif below
  If you got any other names for the folder don't rename it to exefs.
  Instead rename them to romfs or romfs_ext.
 
- You can completly skip these steps if you use mods from [here](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods)
+ You can completly skip these steps if you use mods from [here](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) or [here](https://yuzu-emu.org/game/)
 
   # Goodbye
 
