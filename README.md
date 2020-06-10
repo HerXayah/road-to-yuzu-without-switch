@@ -1,7 +1,7 @@
 # road-to-yuzu-without-switch
 This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/princessakari_)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/SmallYukii)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
 
   * [Introduction](#introduction)
@@ -19,18 +19,15 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
 
 
  # Introduction
- Hey, im Akira and I'm writing you a guide on how to install yuzu without having a Switch, since I discovered this is literally a pain in the ass.
+ Hey, im Yukii and I'm writing you a guide on how to install yuzu without having a Switch, since I discovered this is literally a pain in the ass.
  I try to make it as easy as possible, but be sure to check this out if you need new keys, since I try to keep this always up-to-date! <3
 
  # Guide
 
   # Setup
- First you will need the [yuzu-Installer](https://github.com/yuzu-emu/liftinstall/releases/download/1.8/yuzu_install.exe).
- Open it, and let it do its own stuff and be sure to have it like this.
- ![yuzuInstall](https://fuckedyour.doctor/jHMFQqDS.png?key=r2dUCnMvj8qhPR)
-
- After it's done just press Exit and search for yuzu in your Windows searchbar.
- ![yuzuWeilPrime](https://sexin.church/dVZ1smTb.png?key=56adoSGTXNiWYu)
+ First you will need [yuzu](https://www.mediafire.com/folder/ix9o5v0cvcyle/).
+ Download it.
+ Open it in WinRar, 7ZIP idk and use the Password ,,PiratesDon'tTakeMoney,, then move the contents in a folder and open the yuzu.exe.
 
  yuzu will open and show this screen
  ![DuBistDoof](https://nuke.bayern/9RTatw4x.png?key=J7cFCPraHXStHb)
@@ -74,7 +71,7 @@ Now the game should be in the list. Next do what I do in the gif below
 
   # GetKeys
 
- To get keys easily just go to [this Subreddit](https://www.reddit.com/r/yuzuPiracy/) and look for posts with prod.keys
+ To get keys easily just go to [this Subreddit](https://www.reddit.com/r/yuzupiracy1/) and look for posts with prod.keys
  Then just paste their code into a [decoder](https://www.base64decode.org/) and copy the keys and paste them in a newly created file called prod.keys
 
   # Addons
