@@ -12,7 +12,6 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Games](#games)
   * [Additional](#additional)
    * [GameUpdates](#gameupdates)
-   * [GetKeys](#getkeys)
    * [Mods/Patches](#Addons)
   * [Goodbye](#goodbye)
 
@@ -38,13 +37,11 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  Inside of yuzu click File -> Open yuzu folder.
  This will open the yuzu configuration folder inside of explorer.
 
- Create a folder called "keys" and copy the key you got from [here](https://drive.google.com/drive/folders/1i17XAjiwKLwml_9mzLQ4GF6RYidaCFcG?usp=sharing) and paste it in the folder.
- Then go back out of the keys folder and paste the contents of the Switch firmware folder found [here](https://drive.google.com/drive/folders/19wfoBUpXyqxJdzADhepPBYm_A-xDUNKa?usp=sharing) and click yes if it wants to overwrite any files
- ![CaccaIsCute](https://fuckedyour.doctor/iQ6Yvxxj.png?key=Tka82acKrlYqlS)
+ Create a folder called "keys" and copy the key you got from [here](https://github.com/emuworld/aio/blob/master/prod.keys) and paste it in the folder.
 
   # Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan.
- Then go to Controls and press Single Player yadiyadiyada and set it to this
+ Then go to Controls and press Single Player yadiyadiyada and set it to something like this
  ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
 
  Then Press Configure and set Player 1 to Pro Controller if you have a controller/keyboard and to Joycons if Joycons.
@@ -68,11 +65,6 @@ Now the game should be in the list. Next do what I do in the gif below
  Put it in your folder of the game, then open yuzu. Do exactly as in there
  ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
  For me it was already installed but it should then show under addons that you have it installed
-
-  # GetKeys
-
- To get keys easily just go to [this Subreddit](https://github.com/emuworld/aio/blob/master/prod.keys) and look for posts with prod.keys
- Then just paste their code into a [decoder](https://www.base64decode.org/) and copy the keys and paste them in a newly created file called prod.keys
 
   # Addons
 
