@@ -42,7 +42,6 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
   # Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. (Vulkan seems to be a bit bad atm)
  Then go to Controls and press Single Player yadiyadiyada and set it to something like this
- For Additional Stuff look [here](https://yuzu-emu.org/game/)
  ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
 
  Then Press Configure and set Player 1 to Pro Controller if you have a controller/keyboard and to Joycons if Joycons.
@@ -59,6 +58,10 @@ Now the game should be in the list. Next do what I do in the gif below
 ![GIFFFFFFFFFF](https://fuckedyour.doctor/DVR1L6Fo.gif?key=2I5FdMRG7pL8HA)
 
  # Aditional
+
+  # Compatibility
+
+  For a Compatibility List of Games working look [here](https://yuzu-emu.org/game/)
 
   # GameUpdates
 
