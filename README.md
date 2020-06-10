@@ -71,7 +71,7 @@ Now the game should be in the list. Next do what I do in the gif below
 
   # GetKeys
 
- To get keys easily just go to [this Subreddit](https://www.reddit.com/r/yuzupiracy1/) and look for posts with prod.keys
+ To get keys easily just go to [this Subreddit](https://github.com/emuworld/aio/blob/master/prod.keys) and look for posts with prod.keys
  Then just paste their code into a [decoder](https://www.base64decode.org/) and copy the keys and paste them in a newly created file called prod.keys
 
   # Addons
