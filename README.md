@@ -56,7 +56,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  After that double-click into yuzu and select the folder you put your game folder in.
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
 Now the game should be in the list. Next do what I do in the gif below
-![GIFFFFFFFFFF](https://fuckedyour.doctor/DVR1L6Fo.gif?key=2I5FdMRG7pL8HA)
+![GIFFFFFFFFFF](https://web.archive.org/web/20200329181138if_/https://camo.githubusercontent.com/a67ab6c620759199af24f5a52867c3ee359daa54/68747470733a2f2f6675636b6564796f75722e646f63746f722f445652314c36466f2e6769663f6b65793d32493546644d524737704c384841)
 
  # Aditional
 
