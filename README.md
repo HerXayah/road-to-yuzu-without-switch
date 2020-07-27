@@ -1,7 +1,5 @@
 # road-to-yuzu-without-switch
-This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC
-Disclaimer: I distance myself from Piracy as i own all of the Games i show in the Gifs and Pictures.
-If you own these Games please get them from your Console Legitimatly!
+This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC, while i distance myself from Piracy and that i own any of these Games shown in the Screenshots and Gifs!
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/SmallYukii)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
@@ -12,11 +10,14 @@ If you own these Games please get them from your Console Legitimatly!
    * [Needed-Files](#files)
    * [Settings](#settings)
    * [Games](#games)
+  * [NoPiracy](#NoPiracy)
+   * [Games](#NPGames) 
   * [Additional](#additional)
    *[Compatability](#compatibility) 
    * [GameUpdates](#gameupdates)
    * [Mods/Patches](#Addons)
    * [Mentions](#mentions)
+ * 
   * [Goodbye](#goodbye)
 
 
@@ -53,13 +54,25 @@ If you own these Games please get them from your Console Legitimatly!
  After you're done press Okay and continue to the next step.
 
   # Games
- Download any ROM you want from any ROM Website you like.
+ Download any ROM you want from any ROM Website you like, or if your arent a Pirate from your Switch.
+ A Tutorial for that is below in 
  I recommend [Switch-XCI](https://switch-xci.com/), but any ROM Site does it.
  After you got your File (can be .xci or .nsp) create a folder somewhere on your PC and in that folder create another folder for your game.
  After that double-click into yuzu and select the folder you put your game folder in.
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
 Now the game should be in the list. Next do what I do in the gif below
 ![GIFFFFFFFFFF](https://fuckedyour.doctor/DVR1L6Fo.gif?key=2I5FdMRG7pL8HA)
+
+ # NoPiracy
+
+ * So here goes the way to get Games without Piracy!
+
+  # NPGames
+
+  I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
+  Sorry just have no Homebrewed Switch to try it atm.
+  When you got the XCI, just do the same as in the Gif Above
+
 
  # Aditional
 
