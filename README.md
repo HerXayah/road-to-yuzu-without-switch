@@ -1,5 +1,7 @@
 # road-to-yuzu-without-switch
 This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC
+Disclaimer: I distance myself from Piracy as i own all of the Games i show in the Gifs and Pictures.
+If you own these Games please get them from your Console Legitimatly!
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/SmallYukii)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
