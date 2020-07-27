@@ -66,6 +66,7 @@ Now the game should be in the list. Next do what I do in the gif below
  # NoPiracy
 
  * So here goes the way to get Games without Piracy!
+ * of Something is titled with an ```NP``` it means its NoPiracy!
 
   # NPGames
 
