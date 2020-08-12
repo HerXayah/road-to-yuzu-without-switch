@@ -1,7 +1,7 @@
 # road-to-yuzu-without-switch
-This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC, while i distance myself from Piracy and that i own any of these Games shown in the Screenshots and Gifs! If you use this in a Youtube Video, feel free to go but please link me!
+This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC, while i distance myself from Piracy and that i own any of these Games shown in the Screenshots and Gifs!
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fsmallyukii)](https://twitter.com/SmallYukii)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/SmallYukii)
 [![Discord](https://img.shields.io/discord/622504866132000768?logo=Discord)](https://discord.gg/8AyNesa)
 
   * [Introduction](#introduction)
@@ -15,6 +15,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
   * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [GameUpdates](#gameupdates)
+   * [Performance](#performance)
    * [Mods/Patches](#Addons)
    * [Mentions](#mentions)
   * [Goodbye](#goodbye)
@@ -60,7 +61,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  After that double-click into yuzu and select the folder you put your game folder in.
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
 Now the game should be in the list. Next do what I do in the gif below
-![GIFFFFFFFFFF](https://web.archive.org/web/20200724202747im_/https://camo.githubusercontent.com/357c999ff1fbe51a89c27d053de7b82d6cd79618/68747470733a2f2f7765622e617263686976652e6f72672f7765622f323032303033323931383131333869665f2f68747470733a2f2f63616d6f2e67697468756275736572636f6e74656e742e636f6d2f613637616236633632303735393139396166323466356135323836376333656533353964616135342f363837343734373037333361326632663636373536333662363536343739366637353732326536343666363337343666373232663434353635323331346333363436366632653637363936363366366236353739336433323439333534363634346435323437333737303463333834383431)
+![GIFFFFFFFFFF](https://fuckedyour.doctor/DVR1L6Fo.gif?key=2I5FdMRG7pL8HA)
 
  # NoPiracy
 
@@ -86,6 +87,28 @@ Now the game should be in the list. Next do what I do in the gif below
  Put it in your folder of the game, then open yuzu. Do exactly as in there
  ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
  For me it was already installed but it should then show under addons that you have it installed
+
+  # Performance
+
+  For the best Performance just go below here
+
+  Nvidia: 
+
+  - Download latest [Driver](https://www.nvidia.de/Download/index.aspx?lang=en)
+  - Download [NvidiaInspector](https://drive.google.com/uc?export=download&id=1Dny2QYUB5wLrHPStwg4_WzpHCUs5xN15)
+  - Open it and Press the Green Arrow that goes down in Topbar and select import Profiles
+  - Download my [Profile](https://drive.google.com/file/d/1bkTNMr7TPTur9iZsmcu5W_FEsp56R26D/view?usp=sharing) and select it 
+  - Press ,,Apply Changes,,
+  - Profit
+
+  AMD: 
+
+  - IDK need some help here maybe
+
+
+  Generally: 
+
+  Use my [GamingTweaksRepo](https://github.com/PrincessAkira/Use-Gaming-Tweaks) for Performance Stuff
 
   # Addons
 
