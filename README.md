@@ -10,13 +10,14 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
    * [Needed-Files](#files)
    * [Settings](#settings)
    * [Games](#games)
-  * [NoPiracy](#NoPiracy)
-   * [Games](#NPGames) 
+  * [NoPiracy](#nopiracy)
+   * [Games](#npgames) 
   * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [GameUpdates](#gameupdates)
    * [Performance](#performance)
-   * [Mods/Patches](#Addons)
+   * [BCAT](#bcats)
+   * [Mods/Patches](#addons)
    * [Mentions](#mentions)
   * [Goodbye](#goodbye)
 
@@ -29,9 +30,9 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
  # Guide
 
   # Setup
- First you will need [yuzu](https://www.mediafire.com/folder/ix9o5v0cvcyle/).
+ First you will need [yuzu](https://pineappleea.github.io/).
  Download it.
- Open it in WinRar, 7ZIP idk and use the Password ,,PiratesDon'tTakeMoney,, then move the contents in a folder and open the yuzu.exe.
+ Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the yuzu.exe.
 
  yuzu will open and show this screen
  ![DuBistDoof](https://nuke.bayern/9RTatw4x.png?key=J7cFCPraHXStHb)
@@ -56,7 +57,7 @@ This Repo explains how to install the yuzu Switch Emulator without a Switch on a
   # Games
  Download any ROM you want from any ROM Website you like, or if your arent a Pirate from your Switch.
  A Tutorial for that is below in 
- I recommend [Switch-XCI](https://switch-xci.com/), but any ROM Site does it.
+ I recommend [here](https://drive.google.com/drive/folders/1SsD4PxVISvyeAkM07wD9rpHFs24K8Bi3?usp=drive_open), but any ROM Site does it.
  After you got your File (can be .xci or .nsp) create a folder somewhere on your PC and in that folder create another folder for your game.
  After that double-click into yuzu and select the folder you put your game folder in.
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
@@ -109,6 +110,15 @@ Now the game should be in the list. Next do what I do in the gif below
   Generally: 
 
   Use my [GamingTweaksRepo](https://github.com/PrincessAkira/Use-Gaming-Tweaks) for Performance Stuff
+
+  # BCATS
+
+  Whats a BCAT?
+  A BCAT is the way of Nintendo sending you Ingame Gifts.
+  On an Emulator this, obv, doesnt works as on a Switch, so Yuzu has its own way of giving you these.
+  To Enable this go in the menu and choose Boxcat. ![here](https://i.imgur.com/w6l3zlC.png)
+  A list of all the stuff you can get can be found [here](https://yuzu-emu.org/help/feature/boxcat/)
+
 
   # Addons
 
