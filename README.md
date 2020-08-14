@@ -117,7 +117,7 @@ Now the game should be in the list. Next do what I do in the gif below
   A BCAT is the way of Nintendo sending you Ingame Gifts.
   On an Emulator this, obv, doesnt works as on a Switch, so Yuzu has its own way of giving you these.
   To Enable this go in the menu and choose Boxcat. ![here](https://i.imgur.com/w6l3zlC.png)
-  A list of all the stuff you can get can be found [here](https://yuzu-emu.org/help/feature/boxcat/)
+ <p> A list of all the stuff you can get can be found [here](https://yuzu-emu.org/help/feature/boxcat/)
 
 
   # Addons
