@@ -63,7 +63,8 @@ If you use anything out of this please credit me appropriately!
  After that double-click into yuzu and select the folder you put your game folder in.
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
 <p> Now the game should be in the list. Next do what I do in the gif below
-![Reeeeeeeee](https://mydadbeat.me/GbN6G6ZwgU.gif?key=FLyo7pIM6o5u0k)
+<p>
+![iksdeh](https://mydadbeat.me/GbN6G6ZwgU.gif?key=FLyo7pIM6o5u0k)
 
  # NoPiracy
 
