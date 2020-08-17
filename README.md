@@ -64,7 +64,7 @@ If you use anything out of this please credit me appropriately!
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
 <p> Now the game should be in the list. Next do what I do in the gif below
 <p>
-<img>https://i.imgur.com/0LIQjAv.gif</img>
+<img src=https://i.imgur.com/0LIQjAv.gif></img>
 
  # NoPiracy
 
