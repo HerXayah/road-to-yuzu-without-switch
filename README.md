@@ -58,7 +58,7 @@ If you use anything out of this please credit me appropriately!
   # Games
  Download any ROM you want from any ROM Website you like, or if your arent a Pirate from your Switch.
  A Tutorial for that is below in 
- I recommend [here](https://drive.google.com/drive/folders/1SsD4PxVISvyeAkM07wD9rpHFs24K8Bi3?usp=drive_open), but any ROM Site does it.
+ I recommend [here](https://gamewii.net/category/switch/), but any ROM Site does it.
  After you got your File (can be .xci or .nsp) create a folder somewhere on your PC and in that folder create another folder for your game.
  After that double-click into yuzu and select the folder you put your game folder in.
  ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
