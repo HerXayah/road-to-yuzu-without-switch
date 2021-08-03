@@ -46,7 +46,7 @@ If you use anything out of this please credit me appropriately!
  Create a folder called "keys" and copy the key you got from [here](https://raw.githubusercontent.com/emuworld/aio/master/prod.keys) and paste it in the folder as a file called `prod.keys`.
 
  # Settings
- For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. ~~(Vulkan seems to be a bit bad atm)~~  With the new improvements since this guide came out, Vulkan is now a viable option!
+ For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. ~~(Vulkan seems to be a bit bad atm)~~  With the new improvements since this guide came out, Vulkan is now a viable option!  
  Then go to Controls and press Single Player yadiyadiyada and set it to something like this
  ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
 
@@ -88,7 +88,7 @@ If you use anything out of this please credit me appropriately!
  Download the update of your game or DLCs, usually as a .nsp.
  Put it in your folder of the game, then open yuzu. Do exactly as in there
  ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
- For me it was already installed but it should then show under addons that you have it installed
+ For me it was already installed but it should then show under addons that you have it installed.
 
  ## Performance
 
@@ -105,7 +105,7 @@ If you use anything out of this please credit me appropriately!
 
  AMD: 
 
-  - Use Vulkan for everything you can, OpenGL is slow as all heck on AMD due to their bad OpenGL code
+  - Use Vulkan for everything you can, OpenGL is slow as all heck on AMD due to their bad OpenGL code.
   
  Intel:
  
