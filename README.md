@@ -82,9 +82,9 @@ If you use anything out of this please credit me appropriately!
  ## Game-Updates
 
  Download the update of your game or DLCs, usually as a .nsp.
- Put it in your folder of the game, then open yuzu. Do exactly as in there
+ Put it in your folder of the game, then open yuzu. To install it, follow the steps in this GIF.  
  ![rererere](https://lh3.googleusercontent.com/I9RStHr7wBFJKr_sXMwEC5D6YI4bBocfcSeDOlmrdzQhsLCCDR7OG0SKuUaFxu7NEh5vTHIACHa34Jdots8TPJX7N2oLgMrOHwPFsXVF1VbBu8GkZ7782QpC6Itte5eTwlBdYUs0Rg=w2400)
- For me it was already installed but it should then show under addons that you have it installed.
+ If it says that it is already installed, your ROM likely already has that DLC/Update preinstalled, don't worry, if it breaks the game, just follow the steps in the next section.
 
  ## Performance
 
