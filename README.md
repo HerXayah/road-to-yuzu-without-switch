@@ -127,7 +127,7 @@ If you use anything out of this please credit me appropriately!
   On an Emulator this, obv, doesn't work like it would on a Switch, due to the emulator not connecting to Nintendo's servers.  
   To work around this, Yuzu has its own way of giving you these.  
   To easiernable this go in the menu and choose Boxcat. ![here](https://lh3.googleusercontent.com/2Q8pASe7g3DstMOK91lZxXZv-2k5ixef_SfQeMXn7Sg0hvG1i265u45qro8LU_4KiYHTU9m7u4gProHXoG4et-TU3Q_mozX84Z3NJxX9uym547lT-reeKCIRalDudtNlm5p22oha0Q=w2400)
- <p> A list of all the stuff you can get can be found [here](https://yuzu-emu.org/help/feature/boxcat/)
+ <p> A list of all the stuff you can get can be found [here]https://yuzu-emu.org/help/feature/boxcat/)
 
 
  # Addons
