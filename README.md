@@ -77,9 +77,7 @@ If you use anything out of this please credit me appropriately!
  When you have the XCI, just do the same as in the Gif Above
 
 
- # Aditional
- 
- Nothing here, not sure if you want to keep this heading or not so I'll just put this here so you can see this heading in the diff.
+ # Additional
 
  # Compatibility
 
