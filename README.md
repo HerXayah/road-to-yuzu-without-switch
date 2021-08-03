@@ -10,8 +10,8 @@ If you use anything out of this please credit me appropriately!
    * [Needed&nbsp;Files](#files)
    * [Settings](#settings)
    * [Games](#games)
-   * [No&nbsp;Piracy](#no-piracy)
-   * [Games](#np-games) 
+   * [No&nbsp;Piracy*nbsp;Info](#no-piracy)
+   * [No&nsbsp;Piracy&nbsp;Games](#np-games) 
    * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [Game&nbsp;Updates](#game-updates)
@@ -72,12 +72,14 @@ If you use anything out of this please credit me appropriately!
 
  # NP-Games
 
-  I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
-  Sorry, I just don't have a Homebrewed Switch to try it atm.
-  When you have the XCI, just do the same as in the Gif Above
+ I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
+ Sorry, I just don't have a Homebrewed Switch to try it atm.
+ When you have the XCI, just do the same as in the Gif Above
 
 
  # Aditional
+ 
+ Nothing here, not sure if you want to keep this heading or not so I'll just put this here so you can see this heading in the diff.
 
  # Compatibility
 
