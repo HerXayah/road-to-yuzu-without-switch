@@ -59,7 +59,7 @@ If you use anything out of this please credit me appropriately!
  A Tutorial for that which I recommend is [this](https://gamewii.net/category/switch/), but any ROM Site does it.  
  After you got your File (can be .xci or .nsp) create a folder somewhere on your PC and in that folder create another folder for your game.  
  After that double-click into yuzu and select the folder you put your game folder in.  
- ![UwU](https://sexin.church/7CT7o3Sr.png?key=XuV6NAPCK1ZTH0)
+ ![UwU](https://lh3.googleusercontent.com/dxk1D06CtI2AsVE6KXyzS0Ntq1SOgfDsByJLGP9fcMSzsicmJu57qB3asd8zdl3FVYixJbXKgz-RvifzCoqhRzN5JbtAY2cQdFAiBwtp5NJl66_7gyiuHLn-ZsG3kvGAP5PJZGD4rw=w2400)
 <p> Now the game should be in the list. Next do what I do in the gif below.  
 <p>
 <img src=https://i.imgur.com/0LIQjAv.gif></img>
