@@ -83,7 +83,7 @@ If you use anything out of this please credit me appropriately!
 
  Download the update of your game or DLCs, usually as a .nsp.
  Put it in your folder of the game, then open yuzu. Do exactly as in there
- ![rererere](https://i.uwu.plus/hNmEGB8V.gif?key=gGAX37XVMM7o1q)
+ ![rererere](https://lh3.googleusercontent.com/I9RStHr7wBFJKr_sXMwEC5D6YI4bBocfcSeDOlmrdzQhsLCCDR7OG0SKuUaFxu7NEh5vTHIACHa34Jdots8TPJX7N2oLgMrOHwPFsXVF1VbBu8GkZ7782QpC6Itte5eTwlBdYUs0Rg=w2400)
  For me it was already installed but it should then show under addons that you have it installed.
 
  ## Performance
