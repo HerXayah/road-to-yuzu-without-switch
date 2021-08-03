@@ -157,3 +157,11 @@ If you use anything out of this please credit me appropriately!
 
  Thank you for reading this, I hope it helped you with your start into Switch emulation.
  If I forgot something just create a Pull Request with the stuff added and I will review it ASAP.
+ 
+ # List of contributers to the document :D
+ 
+ PrincessAkira  Owner, created this page  
+ MGThePro   Cleaned up some stuff, fixed typos and links
+ Mou-Ikkai   Fixed a gif
+ Descent098   Helped clarify the settings to use for the key
+ sanikdah  Cleaned up some images, typos, and wrote this section and the uninstall updates section
