@@ -35,7 +35,7 @@ If you use anything out of this please credit me appropriately!
  Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the yuzu.exe.
 
  yuzu will open and show this screen
- ![DuBistDoof](https://i.imgur.com/MHEunR3.png)
+ ![DuBistDoof](https://ibb.co/MMcHtP5)
  on there click Emulation -> Configure -> System -> Profile
  Then press on Add and make a new profile, then close yuzu
 
