@@ -14,7 +14,7 @@ If you use anything out of this please credit me appropriately!
    * [Games](#npgames) 
   * [Additional](#additional)
    * [Compatability](#compatibility) 
-   * [Game⠀Updates](#game updates)
+   * [Game⠀Updates](#game⠀updates)
    * [Performance](#performance)
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
@@ -83,7 +83,7 @@ If you use anything out of this please credit me appropriately!
 
  For a Compatibility List of Games working look [here](https://yuzu-emu.org/game/)
 
- ## Game Updates
+ ## Game⠀Updates
 
  Download the update of your game or DLCs, usually as a .nsp.
  Put it in your folder of the game, then open yuzu. Do exactly as in there
