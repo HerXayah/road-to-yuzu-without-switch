@@ -4,22 +4,22 @@ If you use anything out of this please credit me appropriately!
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/AzarielDev)
 
-  * [Introduction](#introduction)
-  * [Guide](#guide)
-  * [yuzu-Setup](#setup)
+   * [Introduction](#introduction)
+   * [Guide](#guide)
+   * [yuzu-Setup](#setup)
    * [Needed-Files](#files)
    * [Settings](#settings)
    * [Games](#games)
-  * [NoPiracy](#nopiracy)
+   * [NoPiracy](#nopiracy)
    * [Games](#npgames) 
-  * [Additional](#additional)
+   * [Additional](#additional)
    * [Compatability](#compatibility) 
-   * [Game&nbsp;Updates](#game&nbsp;updates)
+   * [Game&nbsp;Updates](#game-updates)
    * [Performance](#performance)
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
    * [Mentions](#mentions)
-  * [Goodbye](#goodbye)
+   * [Goodbye](#goodbye)
 
 
 
@@ -83,7 +83,7 @@ If you use anything out of this please credit me appropriately!
 
  For a Compatibility List of Games working look [here](https://yuzu-emu.org/game/)
 
- ## Game&nbsp;Updates
+ ## Game-Updates
 
  Download the update of your game or DLCs, usually as a .nsp.
  Put it in your folder of the game, then open yuzu. Do exactly as in there
