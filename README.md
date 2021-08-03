@@ -60,9 +60,6 @@ If you use anything out of this please credit me appropriately!
  After you got your File (can be .xci or .nsp) create a folder somewhere on your PC and in that folder create another folder for your game.  
  After that double-click into yuzu and select the folder you put your game folder in.  
  ![UwU](https://lh3.googleusercontent.com/f2SYBEgKuTBUgBwjJLeOhq8lq3uxcWVZChzW9L6JTaazTajurg8HdzoZbnPkkTmPxiOrqCZd5gM8EJb8eWEMxw16BThmQWTdCMKmqd-q0-YJwEohfGx14q4VBcj3vQEoyfS-F0ER0Q=w2400)
-<p> Now the game should be in the list. Next do what I do in the gif below.  
-<p>
-<img src=https://i.imgur.com/0LIQjAv.gif></img>
 
  ## No-Piracy
 
