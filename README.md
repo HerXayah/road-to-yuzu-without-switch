@@ -48,7 +48,7 @@ If you use anything out of this please credit me appropriately!
  ## Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. ~~(Vulkan seems to be a bit bad atm)~~  With the new improvements since this guide came out, Vulkan is now a viable option!  
  Then go to Controls and press Single Player yadiyadiyada and set it to something like this
- ![Reeeeeeee](https://lh3.googleusercontent.com/RCwMZlE7FJV6Mp_jIHKZiZ1yClL2tL4FRCb06LVj5vLs75L1mWWYURvhRsAimBw7Ry5_PP3SY0g-uibE7Ep0-Jy2zH1vPvd80INujhZn7lPzeTKa_XUWe82cBunfUF89dMzPHrXzKA=w2400)
+ ![Reeeeeeee](https://lh3.googleusercontent.com/E-G_UZ68lgO48D2WsKYkfLXkMtdaIz425k_pk3m0oHNjLWJZLghl9s5JNvJdXFFr54FRoeJNBd3uF2bfbxnZyd1Fc8NiHhI804sERIjQO0Uz0JmnKy0hONVLDqxDk06zKG6OHtprBg=w2400)
 
  Then Press Configure and set Player 1 to Pro Controller if you have a controller/keyboard and to Joycons if Joycons.
  Press Configure and press the excat buttons on your controller (it's easier for Xbox but for you PS4 and keyboard users I have a graphic for yo found [here](https://compass-ssl.xboxlive.com/assets/c7/a1/c7a12fbe-af04-4a90-92f2-18338219c2aa.png?n=one-controller-front-l.png))
