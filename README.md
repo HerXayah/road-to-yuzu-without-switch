@@ -29,7 +29,7 @@ If you use anything out of this please credit me appropriately!
 
  # Guide
 
- # Setup
+ ## Setup
  First you will need [yuzu](https://pineappleea.github.io/).
  Download it.
  Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the yuzu.exe.
@@ -39,13 +39,13 @@ If you use anything out of this please credit me appropriately!
  on there click Emulation -> Configure -> System -> Profile
  Then press on Add and make a new profile, then close yuzu
 
- # Files
+ ## Files
  Inside of yuzu click File -> Open yuzu folder.
  This will open the yuzu configuration folder inside of explorer.
 
  Create a folder called "keys" and copy the key you got from [here](https://raw.githubusercontent.com/emuworld/aio/master/prod.keys) and paste it in the folder as a file called `prod.keys`.
 
- # Settings
+ ## Settings
  For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. ~~(Vulkan seems to be a bit bad atm)~~  With the new improvements since this guide came out, Vulkan is now a viable option!  
  Then go to Controls and press Single Player yadiyadiyada and set it to something like this
  ![Reeeeeeee](https://nuke.bayern/tQRi6Dco.png?key=TKvixrA2KWor0u)
@@ -54,7 +54,7 @@ If you use anything out of this please credit me appropriately!
  Press Configure and press the excat buttons on your controller (it's easier for Xbox but for you PS4 and keyboard users I have a graphic for yo found [here](https://compass-ssl.xboxlive.com/assets/c7/a1/c7a12fbe-af04-4a90-92f2-18338219c2aa.png?n=one-controller-front-l.png))
  After you're done press Okay and continue to the next step.
 
- # Games
+ ## Games
  Download any ROM you want from any ROM Website you like, or if your arent a Pirate from your Switch.
  A Tutorial for that which I recommend is below.
  [here](https://gamewii.net/category/switch/), but any ROM Site does it.
@@ -65,12 +65,12 @@ If you use anything out of this please credit me appropriately!
 <p>
 <img src=https://i.imgur.com/0LIQjAv.gif></img>
 
- # No-Piracy
+ ## No-Piracy
 
  * So here goes the way to get Games without Piracy!
  * if Something is titled with an ```NP``` it means its NoPiracy!
 
- # NP-Games
+ ## NP-Games
 
  I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
  Sorry, I just don't have a Homebrewed Switch to try it atm.
@@ -79,7 +79,7 @@ If you use anything out of this please credit me appropriately!
 
  # Additional
 
- # Compatibility
+ ## Compatibility
 
  For a Compatibility List of Games working look [here](https://yuzu-emu.org/game/)
 
