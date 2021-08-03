@@ -14,7 +14,7 @@ If you use anything out of this please credit me appropriately!
    * [Games](#npgames) 
   * [Additional](#additional)
    * [Compatability](#compatibility) 
-   * [GameUpdates](#gameupdates)
+   * [Game Updates](#game updates)
    * [Performance](#performance)
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
