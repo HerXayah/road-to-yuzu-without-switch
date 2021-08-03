@@ -6,12 +6,12 @@ If you use anything out of this please credit me appropriately!
 
    * [Introduction](#introduction)
    * [Guide](#guide)
-   * [yuzu-Setup](#setup)
-   * [Needed-Files](#files)
+   * [yuzu&nbsp;Setup](#setup)
+   * [Needed&nbsp;Files](#files)
    * [Settings](#settings)
    * [Games](#games)
-   * [NoPiracy](#nopiracy)
-   * [Games](#npgames) 
+   * [No&nbsp;Piracy](#no-piracy)
+   * [Games](#np-games) 
    * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [Game&nbsp;Updates](#game-updates)
@@ -65,12 +65,12 @@ If you use anything out of this please credit me appropriately!
 <p>
 <img src=https://i.imgur.com/0LIQjAv.gif></img>
 
- # NoPiracy
+ # No-Piracy
 
  * So here goes the way to get Games without Piracy!
  * if Something is titled with an ```NP``` it means its NoPiracy!
 
- # NPGames
+ # NP-Games
 
   I found a very good guide that can be found [here](https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide)
   Sorry, I just don't have a Homebrewed Switch to try it atm.
