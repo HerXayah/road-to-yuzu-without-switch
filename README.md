@@ -88,6 +88,11 @@ If you use anything out of this please credit me appropriately!
  If it says that it is already installed, your ROM likely already has that DLC/Update preinstalled, don't worry, if it breaks the game, just follow the steps in the next section.  
  
  ## Uninstalling-Game-Updates
+ 
+ Open yuzu, and find the game that has an update that you want to uninstall.  
+ Then follow the steps of the GIF below.  
+ ![uninstall] (https://lh3.googleusercontent.com/1v74IY9WRJZ6Xly8hShVk0g_aUHce8TE1EWin3nvx2IF57rvFp4gOQIzk9jL1ZtIWeO_eYOOamwWVhs3az5kUCXzlCw4bM0oVUr6PY-av1UPxKm1JF_EryilSrUqQDd7RX9oWTHYWA=w2400)
+ If it says that there are no updates to uninstall, that means exactly what it says, there are no preinstalled updates, and no manually user-installed updates either.
 
  ## Performance
 
