@@ -133,14 +133,14 @@ If you use anything out of this please credit me appropriately!
  # Addons
 
  Here ima show how to install mods.
- It's pretty simple, as an example, we're gonna take the mod from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/)
- When you download the zip file you will have a folder called "exefs_patches".
+ It's pretty simple, as an example, we're gonna take the mod from [here](https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/).  
+ When you download the zip file you will have a folder called "exefs_patches".  
  Go inside that folder and in the other folder in there until you are at this file with an .IPS
- ![memememem](https://nuke.bayern/QTwbBtLy.png?key=GP1JZ3BylhCn9q)
- <p> Then move that IPS file into exefs_patches and delete the now empty folder.
- Then rename exefs_patches into exefs.
- Now open yuzu and rightclick your game -> Open Mod Directory.
- Create a new folder with any name you want and move the exefs folder into that, then restart yuzu and you're done.
+ ![memememem](https://nuke.bayern/QTwbBtLy.png?key=GP1JZ3BylhCn9q)  
+ Then move that IPS file into exefs_patches and delete the now empty folder, then rename exefs_patches into exefs.  
+ Now open yuzu and right click your game -> Open Mod Directory.  
+ Create a new folder with the name that you want for the patch (you can name it anything you want).  
+ Then move the exefs folder into the folder that you just made, then restart yuzu and you're done.  
  You now see your mod at compatibility.
  - Additional Note here:
  If you got any other names for the folder don't rename it to exefs.
