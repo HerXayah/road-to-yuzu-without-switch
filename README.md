@@ -15,6 +15,7 @@ If you use anything out of this please credit me appropriately!
    * [Additional](#additional)
    * [Compatability](#compatibility) 
    * [Game&nbsp;Updates](#game-updates)
+   * [Uninstalling&nbsp;Game&nbsp;Updates] (#Uninstalling-Game-Updates)
    * [Performance](#performance)
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
@@ -83,8 +84,10 @@ If you use anything out of this please credit me appropriately!
 
  Download the update of your game or DLCs, usually as a .nsp.
  Put it in your folder of the game, then open yuzu. To install it, follow the steps in this GIF.  
- ![rererere](https://lh3.googleusercontent.com/I9RStHr7wBFJKr_sXMwEC5D6YI4bBocfcSeDOlmrdzQhsLCCDR7OG0SKuUaFxu7NEh5vTHIACHa34Jdots8TPJX7N2oLgMrOHwPFsXVF1VbBu8GkZ7782QpC6Itte5eTwlBdYUs0Rg=w2400)
- If it says that it is already installed, your ROM likely already has that DLC/Update preinstalled, don't worry, if it breaks the game, just follow the steps in the next section.
+ ![rererere](https://lh3.googleusercontent.com/I9RStHr7wBFJKr_sXMwEC5D6YI4bBocfcSeDOlmrdzQhsLCCDR7OG0SKuUaFxu7NEh5vTHIACHa34Jdots8TPJX7N2oLgMrOHwPFsXVF1VbBu8GkZ7782QpC6Itte5eTwlBdYUs0Rg=w2400)  
+ If it says that it is already installed, your ROM likely already has that DLC/Update preinstalled, don't worry, if it breaks the game, just follow the steps in the next section.  
+ 
+ ## Uninstalling-Game-Updates
 
  ## Performance
 
