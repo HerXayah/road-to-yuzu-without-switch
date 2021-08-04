@@ -1,5 +1,5 @@
 # road-to-yuzu-without-switch
-This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC, while i distance myself from Piracy and that i own any of these Games shown in the Screenshots and Gifs!
+This Repo explains how to install the yuzu Ninendo Switch Emulator without a Switch on a Windows PC, while I distance myself from piracy and that I own any of these Games shown in the original screenshots and Gifs!  
 If you use anything out of this please credit me appropriately!
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/AzarielDev)
@@ -26,7 +26,7 @@ If you use anything out of this please credit me appropriately!
 
 
  # Introduction
- Hey, im Yukii and I'm writing you a guide on how to install yuzu without having a Switch, since I discovered this is literally a pain in the ass.
+ Hey, im Yukii and I'm writing you a guide on how to install yuzu without having a Switch, since I discovered this is literally a pain in the ass.  
  I try to make it as easy as possible, but be sure to check this out if you need new keys, since I try to keep this always up-to-date! <3
 
  # Guide
@@ -37,7 +37,7 @@ If you use anything out of this please credit me appropriately!
  Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the yuzu.exe.
 
  yuzu will open and show this screen.
- ![DuBistDoof](https://lh3.googleusercontent.com/J8NtE1kDMkabuxWOcu0eJtDghK2oQeyfwu0fTOSNMaPJzO0BaM49CEgkMkrZXbyLjFzLnOcg2U1p-LVakwaWg7P7sgrR1fg3BUi63ryk5qtVQb1sTxFcl1I5eYhaMikyoSJJCfJtUw=w2400)  
+ ![DuBistDoof](https://lh3.googleusercontent.com/yvQRYqP0L1iKsmBQpbCPXZjcfRkQAMzZczD0_Wfp3sGWIp0XFs1izPUoeoVfX86Etg9-0qxVaI7jed5pm3beCySCyu_0Rf1KC7OPs-URJ4-ujjwxIbnV8Ncd2tDaBaBcxuvP87_Z0Q=w2400)  
  On there click Emulation -> Configure -> System -> Profile
  Then press on Add and make a new profile, then close yuzu
 
