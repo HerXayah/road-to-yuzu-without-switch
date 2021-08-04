@@ -17,7 +17,7 @@ If you use anything out of this please credit me appropriately!
    * [Game&nbsp;Updates](#game-updates)
    * [Uninstalling&nbsp;Game&nbsp;Updates] (#Uninstalling-Game-Updates)
    * [Performance](#performance)
-   * [Log$nbsp;Files] (#log&nbsp;files)
+   * [Log&nbsp;Files] (#log-files)
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
    * [Mentions](#mentions)
