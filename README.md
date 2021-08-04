@@ -17,7 +17,7 @@ If you use anything out of this please credit me appropriately!
    * [Game&nbsp;Updates](#game-updates)
    * [Uninstalling&nbsp;Game&nbsp;Updates](#Uninstalling-Game-Updates)
    * [Performance](#performance)
-   * [Log&nbsp;Files](#log&nbsp;files)
+   * [Log&nbsp;Files](#log-files)
    * [BCAT](#bcats)
    * [Mods/Patches](#addons)
    * [Mentions](#mentions)
@@ -121,7 +121,7 @@ If you use anything out of this please credit me appropriately!
 
   Use my [GamingTweaksRepo](https://github.com/PrincessAkira/Use-Gaming-Tweaks) for Performance Stuff
   
- ## Log&nbsp;files
+ ## Log-files
  
  - Windows: Open the Run prompt (Windows Key + R) and type this in, "%appdata%\yuzu"  then head to the logs directory
  - MacOS: How about waiting until yuzu comes out on MacOS.......
