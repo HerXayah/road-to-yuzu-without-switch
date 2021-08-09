@@ -2,7 +2,7 @@
 This Repo explains how to install the yuzu Ninendo Switch Emulator without a Switch on a Windows PC, while I distance myself from piracy and that I own any of these Games shown in the original screenshots and Gifs!  
 If you use anything out of this please credit me appropriately!
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/AzarielDev)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fpoolpartyakali)](https://twitter.com/PoolPartyAkali)
 
    * [Introduction](#introduction)
    * [Guide](#guide)
