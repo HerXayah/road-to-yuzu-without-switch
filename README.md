@@ -5,7 +5,7 @@ If you use anything out of this please credit me appropriately!
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fpoolpartyakali)](https://twitter.com/PoolPartyAkali)
 
-[Also may i Interest you in a _better_ Switch Emulator?](https://github.com/PrincessAkira/road-to-ryujinx-without-switch)
+[Ryujinx Version](https://github.com/PrincessAkira/road-to-ryujinx-without-switch)
 
 -  [Introduction](#introduction)
 -  [Guide](#guide)
