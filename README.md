@@ -23,7 +23,6 @@ If you use anything out of this please credit me appropriately!
 -  [BCAT](#bcats)
 -  [Shaders](#shaders)
 -  [Mods/Patches](#mods)
--  [Mentions](#mentions)
 -  [Goodbye](#goodbye)
 
 # Introduction
@@ -160,11 +159,6 @@ There are multiple sites to get Mods altogether.
 -  Additional Note here:
    If you got any other names for the folder don't rename it to exefs.
    Instead rename them to romfs or romfs_ext.
-
-# Mentions
-
-Thy to this guy someone found on HackerNews Posting my Github as an Answer :D  
- ![reee](https://i.imgur.com/mnDtjzV.png)
 
 # Goodbye
 
