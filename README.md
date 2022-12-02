@@ -18,7 +18,6 @@ If you use anything out of this please credit me appropriately!
 -  [Compatability](#compatibility)
 -  [Game&nbsp;Updates](#game-updates)
 -  [Uninstalling&nbsp;Game&nbsp;Updates](#Uninstalling-Game-Updates)
--  [Performance](#performance)
 -  [Log&nbsp;Files](#log-files)
 -  [BCAT](#bcats)
 -  [Shaders](#shaders)
@@ -93,27 +92,6 @@ Open yuzu, and find the game that has an update that you want to uninstall.
  Then follow the steps of the GIF below.  
  ![uninstall](https://lh3.googleusercontent.com/1v74IY9WRJZ6Xly8hShVk0g_aUHce8TE1EWin3nvx2IF57rvFp4gOQIzk9jL1ZtIWeO_eYOOamwWVhs3az5kUCXzlCw4bM0oVUr6PY-av1UPxKm1JF_EryilSrUqQDd7RX9oWTHYWA=w2400)  
  If it says that there are no updates to uninstall, that means exactly what it says, there are no preinstalled updates, and no manually user-installed updates either.
-
-## Performance
-
-For the best Performance just follow these steps.
-
-Nvidia:
-
--  Download latest [Driver](https://www.nvidia.com/Download/index.aspx?lang=en)
--  Download [NvidiaInspector](https://drive.google.com/uc?export=download&id=1Dny2QYUB5wLrHPStwg4_WzpHCUs5xN15)
--  Open it and Press the Green Arrow that goes down in Topbar and select import Profiles
--  Download my [Profile](https://drive.google.com/file/d/1bkTNMr7TPTur9iZsmcu5W_FEsp56R26D/view?usp=sharing) and select it
--  Press ,,Apply Changes,,
--  Profit
-
-AMD:
-
--  Use Vulkan for everything you can, OpenGL is slow as all heck on AMD due to their bad OpenGL code.
-
-Intel:
-
--  Once again Vulkan is better, OpenGL is bad on here too.
 
 ## Log-files
 
