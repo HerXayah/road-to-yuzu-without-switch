@@ -62,7 +62,6 @@ After you're done press Okay and continue to the next step.
 ## Games
 
 Download any ROM you want from any ROM Website you like, or if your arent a pirate, dump it from your Switch.  
- A Tutorial for that which I recommend is [this](https://nsw2u.xyz/), but any ROM Site does it.  
  After you got your File (can be .xci or .nsp) create a folder somewhere on your PC and in that folder create another folder for your game.  
  After that double-click into yuzu and select the folder you put your game folder in.  
  ![UwU](https://lh3.googleusercontent.com/f2SYBEgKuTBUgBwjJLeOhq8lq3uxcWVZChzW9L6JTaazTajurg8HdzoZbnPkkTmPxiOrqCZd5gM8EJb8eWEMxw16BThmQWTdCMKmqd-q0-YJwEohfGx14q4VBcj3vQEoyfS-F0ER0Q=w2400)
