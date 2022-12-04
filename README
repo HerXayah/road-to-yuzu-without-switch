@@ -31,6 +31,8 @@ Hey, im Sarah and I'm writing you a guide on how to install yuzu without having 
 
 # Guide
 
+# Manual Setup
+
 ## Setup
 
 First you will need [yuzu](https://pineappleea.github.io/).
@@ -39,19 +41,20 @@ Open it in WinRar, 7ZIP idk and then move the contents in a folder and open the 
 
 yuzu will open and show this screen.
 ![DuBistDoof](https://lh3.googleusercontent.com/yvQRYqP0L1iKsmBQpbCPXZjcfRkQAMzZczD0_Wfp3sGWIp0XFs1izPUoeoVfX86Etg9-0qxVaI7jed5pm3beCySCyu_0Rf1KC7OPs-URJ4-ujjwxIbnV8Ncd2tDaBaBcxuvP87_Z0Q=w2400)  
- On there click Emulation -> Configure -> System -> Profile
+ On there click `Emulation -> Configure -> System -> Profile`
 Then press on Add and make a new profile, then close yuzu
 
 ## Files
 
-Inside of yuzu click File -> Open yuzu folder.
+Inside of yuzu click `File -> Open yuzu folder`.
 This will open the yuzu configuration folder inside of explorer.
 
-Create a folder called "keys" and copy the key you got from [here](https://drive.google.com/drive/folders/1KAym-RpGIDuJiSmMLmpCtGVbhLm4VjTZ) and paste it in the folder as a file called `prod.keys`.
+Create a folder called "keys" and copy the keyfile you got from [Reddit](https://www.reddit.com/r/NewYuzuPiracy/) or anywhere else in there.
+`Note: The File name should be prod.keys, not prod.keys.txt`
 
 ## Settings
 
-For settings open yuzu up Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL. With the new improvements since this guide came out, Vulkan is now a viable option!  
+For settings open yuzu up `Emulation -> Configure -> Graphics, Select OpenGL and set it to Vulkan or OpenGL`. With the new improvements since this guide came out, Vulkan is now a viable option!  
  Then go to Controls and press Single Player yadiyadiyada and set it to something like this
 ![Reeeeeeee](https://lh3.googleusercontent.com/E-G_UZ68lgO48D2WsKYkfLXkMtdaIz425k_pk3m0oHNjLWJZLghl9s5JNvJdXFFr54FRoeJNBd3uF2bfbxnZyd1Fc8NiHhI804sERIjQO0Uz0JmnKy0hONVLDqxDk06zKG6OHtprBg=w2400)
 
@@ -120,7 +123,7 @@ It's pretty simple, as an example, we're gonna take the mod from [here](https://
  Go inside that folder and in the other folder in there until you are at this file with an .IPS
 ![memememem](https://nuke.bayern/QTwbBtLy.png?key=GP1JZ3BylhCn9q)  
  Then move that IPS file into exefs_patches and delete the now empty folder, then rename exefs_patches into exefs.  
- Now open yuzu and right click your game -> Open Mod Directory.  
+ Now open yuzu and `Right click your game -> Open Mod Directory`.  
  Create a new folder with the name that you want for the patch (you can name it anything you want).  
  Then move the exefs folder into the folder that you just made, then restart yuzu and you're done.  
  You now see your mod at compatibility.
