@@ -10,7 +10,7 @@ If you use anything out of this please credit me appropriately!
 -  [Introduction](#introduction)
 -  [Guide](#guide)
 -  [yuzu&nbsp;Setup](#setup)
--  [Needed&nbsp;Files](#files)
+-  [files](#files)
 -  [Settings](#settings)
 -  [Games](#games)
 -  [dump-games](#dump-games)
