@@ -44,7 +44,7 @@ Then press on `Add` and make a new profile, then close Yuzu.
 
 Inside of Yuzu, click `File -> Open Yuzu folder`. This will open the Yuzu configuration folder inside of explorer.
 
-Create a folder called "keys" and copy the keyfile you got from [Reddit](https://www.reddit.com/r/NewYuzuPiracy/) or anywhere else in there. A viable place to get keys is [128 Bit Bay](https://rentry.org/128bb).
+Create a folder called "keys" and copy the keyfile you got from [Reddit](https://www.reddit.com/r/NewYuzuPiracy/) or anywhere else in there. A viable place to get keys is [128 Bit Bay](https://rentry.org/128bbkeys).
 
 Note: The File name should be prod.keys, not prod.keys.txt.
 
