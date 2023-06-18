@@ -133,9 +133,9 @@ If I forgot something just create a Pull Request with the stuff added and I will
 
 # List of contributers to the document :D
 
-PrincessAkira Owner, created this page  
-MGThePro Cleaned up some stuff, fixed typos and links
-Mou-Ikkai Fixed a gif
-Descent098 Helped clarify the settings to use for the key
-sanikdah Cleaned up some images, typos, and wrote this section and the uninstall updates section
-pajamaclaws21 
+[https://github.com/PrincessAkira](PrincessAkira) Owner, created this page<br>
+[https://github.com/MGThePro](MGThePro) Cleaned up some stuff, fixed typos and links<br>
+Mou-Ikkai Fixed a gif<br>
+[https://github.com/Descent098](Descent098) Helped clarify the settings to use for the key<br>
+sanikdah Cleaned up some images, typos, and wrote this section and the uninstall updates section<br>
+[https://github.com/pajamaclaws21](pajamaclaws21)
