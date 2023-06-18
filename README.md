@@ -118,7 +118,7 @@ It's pretty simple, as an example, we're gonna take the mod from [here](https://
 
 There are multiple sites to get Mods altogether.
 
--  https://drive.google.com/drive/folders/1dY20qH3phqoUfmAEdngTzrtMIvPFwSG4?usp=sharing
+-  [Mods saved on Google Drive](https://drive.google.com/drive/folders/1dY20qH3phqoUfmAEdngTzrtMIvPFwSG4?usp=sharing)
 -  [switch-ptchtxt-mods](https://github.com/theboy181/switch-ptchtxt-mods)
 -  [Switch-Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods)
 
