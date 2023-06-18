@@ -44,7 +44,7 @@ Then press on `Add` and make a new profile, then close Yuzu.
 
 Inside of Yuzu, click `File -> Open Yuzu folder`. This will open the Yuzu configuration folder inside of explorer.
 
-Create a folder called "keys" and copy the keyfile you got from [Reddit](https://www.reddit.com/r/NewYuzuPiracy/) or anywhere else in there. A viable place to get keys is [128 Bit Bay](https://rentry.org/128bbkeys).
+Create a folder called "keys" and copy the keyfile you got from [128 Bit Bay](https://rentry.org/128bbkeys).
 
 Note: The File name should be prod.keys, not prod.keys.txt.
 
@@ -119,8 +119,8 @@ It's pretty simple, as an example, we're gonna take the mod from [here](https://
 There are multiple sites to get Mods altogether.
 
 -  https://drive.google.com/drive/folders/1dY20qH3phqoUfmAEdngTzrtMIvPFwSG4?usp=sharing
--  https://github.com/theboy181/switch-ptchtxt-mods
--  https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods
+-  [switch-ptchtxt-mods](https://github.com/theboy181/switch-ptchtxt-mods)
+-  [Switch-Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods)
 
 -  Additional Note here:
    If you got any other names for the folder don't rename it to exefs.
