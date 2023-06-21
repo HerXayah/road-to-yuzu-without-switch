@@ -139,3 +139,4 @@ Mou-Ikkai Fixed a gif<br>
 [Descent098](https://github.com/Descent098) Helped clarify the settings to use for the key<br>
 sanikdah Cleaned up some images, typos, and wrote this section and the uninstall updates section<br>
 [pajamaclaws21](https://github.com/pajamaclaws21)
+[NULLYUKI](https://github.com/NULLYUKI) Removed outdated link, changed links to hyperlinks and created hyperlinks for the users in the "List of contributers to the document"
