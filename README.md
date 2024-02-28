@@ -21,7 +21,6 @@ This Repo explains how to install the Yuzu Nintendo Switch Emulator -- without a
 -  [Uninstalling&nbsp;Game&nbsp;Updates](#Uninstalling-Game-Updates)
 -  [Log&nbsp;Files](#log-files)
 -  [BCAT](#bcats)
--  [Shaders](#shaders)
 -  [Mods/Patches](#mods)
 -  [Goodbye](#goodbye)
 
@@ -103,11 +102,6 @@ It stands for BoxCat, and it's Nintendo's sending you In-game Gifts. On an Emula
 To enable this, go in the menu and choose `Boxcat`. 
 ![here](https://lh3.googleusercontent.com/2Q8pASe7g3DstMOK91lZxXZv-2k5ixef_SfQeMXn7Sg0hvG1i265u45qro8LU_4KiYHTU9m7u4gProHXoG4et-TU3Q_mozX84Z3NJxX9uym547lT-reeKCIRalDudtNlm5p22oha0Q=w2400)  
 A list of all the stuff you can get can be found [here](https://yuzu-emu.org/help/feature/boxcat/)
-
-# Shaders
-
-To get shaders, go [here](https://github.com/JENOVAAbsolute/128BB-Shaders).
-Download the one you need and then right click on the game. Open `Transferable Pipeline Cache`, and paste contents in.
 
 # Mods
 
