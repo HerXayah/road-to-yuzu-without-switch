@@ -1,6 +1,7 @@
 # Road to Yuzu w/o Switch
 
 This Repo explains how to install the Yuzu Nintendo Switch Emulator -- without a Switch -- on a Windows PC. I distance myself from piracy and I own any/all of these games shown in the original screenshots and gifs. If you use anything out of this please credit me appropriately!
+Basically the only Switch Emulator Guide you need
 
 [Fuck Nintendo. Sincerely, yours truly](https://twitter.com/OrdinaryGamers/status/1762597394695237895)
 
