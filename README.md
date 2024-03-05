@@ -2,6 +2,9 @@
 
 Since the takedown, please use [Ryujinx Version](https://github.com/PrincessAkira/road-to-ryujinx-without-switch)
 
+If you still want Yuzu, please go here.
+https://github.com/LightningMods/def-not-yuzu
+
 Below is for archiving purposes!
 
 
