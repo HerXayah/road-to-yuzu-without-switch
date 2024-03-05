@@ -1,5 +1,10 @@
 # Road to Yuzu w/o Switch
 
+Since the takedown, please use [Ryujinx Version](https://github.com/PrincessAkira/road-to-ryujinx-without-switch)
+
+Below is for archiving purposes!
+
+
 This Repo explains how to install the Yuzu Nintendo Switch Emulator -- without a Switch -- on a Windows PC. I distance myself from piracy and I own any/all of these games shown in the original screenshots and gifs. If you use anything out of this please credit me appropriately!
 Basically the only Switch Emulator Guide you need
 
