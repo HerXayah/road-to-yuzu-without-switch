@@ -3,7 +3,11 @@
 Since the takedown, please use [Ryujinx Version](https://github.com/PrincessAkira/road-to-ryujinx-without-switch)
 
 If you still want Yuzu, please go here.
-https://github.com/LightningMods/def-not-yuzu
+[https://github.com/LightningMods/def-not-yuzu](https://github.com/LightningMods/def-not-yuzu)
+Thanks to LightningMods for the permission to link it.
+
+![image](https://github.com/PrincessAkira/road-to-yuzu-without-switch/assets/45071533/9b526226-6100-4d27-8906-597ab3fe5955)
+
 
 Below is for archiving purposes!
 
