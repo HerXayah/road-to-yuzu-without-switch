@@ -6,7 +6,10 @@ If you still want Yuzu, please go here.
 [https://github.com/LightningMods/def-not-yuzu](https://github.com/LightningMods/def-not-yuzu)
 Thanks to LightningMods for the permission to link it.
 
-Below is for archiving purposes!
+Otherwise, use Suyu Emulator.
+Can be found here https://suyu.dev/download
+
+
 
 
 This Repo explains how to install the Yuzu Nintendo Switch Emulator -- without a Switch -- on a Windows PC. I distance myself from piracy and I own any/all of these games shown in the original screenshots and gifs. If you use anything out of this please credit me appropriately!
