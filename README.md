@@ -1,4 +1,5 @@
 # Road to Yuzu w/o Switch
+# Road to Suyu w/o Switch
 
 Since the takedown, please use [Ryujinx Version](https://github.com/PrincessAkira/road-to-ryujinx-without-switch)
 
@@ -7,7 +8,7 @@ If you still want Yuzu, please go here.
 Thanks to LightningMods for the permission to link it.
 
 Otherwise, use Suyu Emulator.
-Can be found here https://suyu.dev/download
+Can be found here [https://suyu.dev/download](https://git.suyu.dev/)
 
 
 
