@@ -2,7 +2,7 @@
 # Road to Suyu w/o Switch
 
 Since the takedown, please use [Ryujinx Version](https://github.com/PrincessAkira/road-to-ryujinx-without-switch)
-Use Suyu Emulator.
+and if u wanna use Suyu Emulator do so below here -> 
 Can be found here [https://suyu.dev/download](https://git.suyu.dev/)
 
 
