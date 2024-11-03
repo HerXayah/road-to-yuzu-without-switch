@@ -6,6 +6,9 @@ Use Suyu Emulator.
 Can be found here [https://suyu.dev/download](https://git.suyu.dev/)
 
 
+# RYUJINX IS BACK BITCHES -> https://github.com/HerXayah/road-to-ryujinx-without-switch
+
+
 
 
 This Repo explains how to install the Yuzu Nintendo Switch Emulator -- without a Switch -- on a Windows PC. I distance myself from piracy and I own any/all of these games shown in the original screenshots and gifs. If you use anything out of this please credit me appropriately!
